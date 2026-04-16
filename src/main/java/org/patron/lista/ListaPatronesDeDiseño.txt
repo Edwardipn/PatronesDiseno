@@ -1,0 +1,31 @@
+Patrones Creacionales (5)
+
+ok	Abstract Factory
+	Builder
+ok	Factory Method
+ok	Prototype
+ok	Singleton
+
+Patrones Estructurales (7)
+
+	Adapter
+	Bridge
+	Composite
+ok	Decorator
+ok	Facade
+	Flyweight
+ok	Proxy
+
+Patrones de Comportamiento (11)
+
+	Chain of Responsibility
+ok	Command
+	Interpreter
+	Iterator
+	Mediator
+	Memento
+	Observer
+	State
+	Strategy
+	Template Method
+	Visitor
